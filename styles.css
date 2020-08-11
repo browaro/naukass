@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+    
+}
+
+.logo {
+    display:block;
+    float:left;
+    width:100px;
+    background-color:#000;
+}
+
